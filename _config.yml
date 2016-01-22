@@ -1,6 +1,6 @@
 name: Herangtunet Blogg
 favicon: null
-layout_spectrum: 0.07350969780236483
+layout_spectrum: 0.84646
 typography_spectrum: 0.19339669588953257
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8340052084531635
+    - '#dad3c9'
+    - '#acacac'
+    - '#2f59ad'
+    - '#1f262c'
+    - '#68561d'
+  brandStrength: 0.25
   lightness: 0.7292259191162884
   saturation: 0.22444250155240297
   rhythmicContrast: 0.42337428661994636
